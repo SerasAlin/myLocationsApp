@@ -1,147 +1,42 @@
-E, [2022-02-13T17:22:43.996196 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:22:43.998765 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:22:43.998819 #16873] ERROR -- : 
-E, [2022-02-13T17:22:44.066867 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:22:44.067178 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:22:44.067223 #16873] ERROR -- : 
-E, [2022-02-13T17:23:00.941644 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:00.941718 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:00.941733 #16873] ERROR -- : 
-E, [2022-02-13T17:23:00.969436 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:00.969497 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:00.969512 #16873] ERROR -- : 
-E, [2022-02-13T17:23:01.632630 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:01.632700 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:01.632715 #16873] ERROR -- : 
-E, [2022-02-13T17:23:01.671604 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:01.671663 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:01.671685 #16873] ERROR -- : 
-E, [2022-02-13T17:23:02.195008 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:02.195341 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:02.195385 #16873] ERROR -- : 
-E, [2022-02-13T17:23:02.247564 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:02.247629 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:02.247646 #16873] ERROR -- : 
-E, [2022-02-13T17:23:02.551893 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:02.552256 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:02.552326 #16873] ERROR -- : 
-E, [2022-02-13T17:23:02.598885 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:02.599009 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:02.599047 #16873] ERROR -- : 
-E, [2022-02-13T17:23:02.974755 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:02.975145 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:02.975245 #16873] ERROR -- : 
-E, [2022-02-13T17:23:03.024965 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:03.025170 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:03.025578 #16873] ERROR -- : 
-E, [2022-02-13T17:23:03.402749 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:03.403115 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:03.403287 #16873] ERROR -- : 
-E, [2022-02-13T17:23:03.454153 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:03.454348 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:03.454435 #16873] ERROR -- : 
-E, [2022-02-13T17:23:13.558673 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:13.559074 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:13.559120 #16873] ERROR -- : 
-E, [2022-02-13T17:23:13.611732 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:13.611864 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:13.611901 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.330366 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:14.330753 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.330805 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.385141 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:14.385351 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.385389 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.616246 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:14.616532 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.616579 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.668257 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:14.682950 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.683306 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.852995 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:14.853581 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.853630 #16873] ERROR -- : 
-E, [2022-02-13T17:23:14.902130 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:14.902318 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:14.902388 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.258038 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:15.258365 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.258404 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.306353 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:15.306592 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.306708 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.426376 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:15.426530 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.426565 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.462047 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:15.462150 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.462181 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.600944 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:15.601298 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.601339 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.642694 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:15.642810 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.642842 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.770423 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:15.770754 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.770806 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.811445 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:15.811564 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.811597 #16873] ERROR -- : 
-E, [2022-02-13T17:23:15.961356 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:15.961628 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:15.961674 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.018159 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:16.018261 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.018293 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.113917 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:16.114074 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.114108 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.151419 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:16.151551 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.151583 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.288676 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:16.288990 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.289099 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.328718 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:16.328838 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.328869 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.404390 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:16.404518 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.404553 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.429173 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:16.429280 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.429314 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.546611 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:16.546779 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.546878 #16873] ERROR -- : 
-E, [2022-02-13T17:23:16.586937 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:16.587059 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:16.587095 #16873] ERROR -- : 
-E, [2022-02-13T17:23:18.631829 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:18.633306 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:18.634045 #16873] ERROR -- : 
-E, [2022-02-13T17:23:18.679368 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:18.679636 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:18.679768 #16873] ERROR -- : 
-E, [2022-02-13T17:23:20.585105 #16873] ERROR -- : No matching interaction found for GET /
-E, [2022-02-13T17:23:20.585471 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:20.585577 #16873] ERROR -- : 
-E, [2022-02-13T17:23:20.637359 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:20.637474 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:20.637511 #16873] ERROR -- : 
-E, [2022-02-13T17:23:23.441605 #16873] ERROR -- : No matching interaction found for GET /statement/mycid
-E, [2022-02-13T17:23:23.442273 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:23.442336 #16873] ERROR -- : 
-E, [2022-02-13T17:23:23.495506 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:23.495720 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:23.495776 #16873] ERROR -- : 
-E, [2022-02-13T17:23:28.176916 #16873] ERROR -- : No matching interaction found for GET /get-locations
-E, [2022-02-13T17:23:28.177742 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:28.177797 #16873] ERROR -- : 
-E, [2022-02-13T17:23:28.220603 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:28.220721 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:28.220777 #16873] ERROR -- : 
-E, [2022-02-13T17:23:33.984283 #16873] ERROR -- : No matching interaction found for GET /favicon.ico
-E, [2022-02-13T17:23:33.984518 #16873] ERROR -- : Interaction diffs for that route:
-E, [2022-02-13T17:23:33.984561 #16873] ERROR -- : 
+E, [2022-02-16T00:31:44.008422 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:44.009080 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:44.009098 #34566] ERROR -- : 
+E, [2022-02-16T00:31:44.046836 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:44.046884 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:44.046896 #34566] ERROR -- : 
+E, [2022-02-16T00:31:45.769177 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:45.769282 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:45.769314 #34566] ERROR -- : 
+E, [2022-02-16T00:31:50.799107 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:50.799184 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:50.799200 #34566] ERROR -- : 
+E, [2022-02-16T00:31:55.522817 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:55.522889 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:55.522905 #34566] ERROR -- : 
+E, [2022-02-16T00:31:55.672153 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:55.672247 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:55.672264 #34566] ERROR -- : 
+E, [2022-02-16T00:31:56.787742 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:31:56.787808 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:31:56.787823 #34566] ERROR -- : 
+E, [2022-02-16T00:32:01.042936 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:01.043008 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:01.043023 #34566] ERROR -- : 
+E, [2022-02-16T00:32:02.080534 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:02.080610 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:02.080631 #34566] ERROR -- : 
+E, [2022-02-16T00:32:04.114964 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:04.115210 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:04.115259 #34566] ERROR -- : 
+E, [2022-02-16T00:32:14.144432 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:14.144589 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:14.144617 #34566] ERROR -- : 
+E, [2022-02-16T00:32:28.973516 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:28.973606 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:28.973644 #34566] ERROR -- : 
+E, [2022-02-16T00:32:34.408938 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:34.409049 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:34.409085 #34566] ERROR -- : 
+E, [2022-02-16T00:32:38.375387 #34566] ERROR -- : No matching interaction found for GET /get-categories
+E, [2022-02-16T00:32:38.375528 #34566] ERROR -- : Interaction diffs for that route:
+E, [2022-02-16T00:32:38.375583 #34566] ERROR -- : 

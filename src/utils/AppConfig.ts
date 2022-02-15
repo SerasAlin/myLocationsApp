@@ -1,5 +1,6 @@
 export const AppConfig = {
   site_name: 'My Locations',
-  title: 'My Locations - NextJS',
+  locations: 'My Locations - NextJS',
+  categories: 'My Categories - NextJS',
   locale: 'en',
 };

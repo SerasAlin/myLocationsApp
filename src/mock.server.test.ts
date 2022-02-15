@@ -1,6 +1,7 @@
 import { Interaction, InteractionObject } from '@pact-foundation/pact';
 import { pactWith } from 'jest-pact';
 
+import { allCategoriesSample } from './components/category/locations.sample';
 import { allLocationsSample } from './components/location/locations.sample';
 
 const runningPeriod = 1000 * 60 * 60;
@@ -21,6 +22,9 @@ const addInteraction: AddInteraction = (path, body, query, method = 'GET') => ({
 
 const interactions = (provider: any) => {
   provider.addInteraction(addInteraction('/get-locations', allLocationsSample));
+  provider.addInteraction(
+    addInteraction('/get-categories', allCategoriesSample)
+  );
 };
 
 pactWith(

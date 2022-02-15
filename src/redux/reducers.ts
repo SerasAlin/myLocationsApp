@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
 
-import language from './slices/language';
+import language from './slices/locations';
 
 const reducers = {
   language,

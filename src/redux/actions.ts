@@ -1,1 +1,2 @@
-export { setIsLanguageManualSelected } from './slices/language';
+export { setLocation } from './slices/locations';
+export { setCategory } from './slices/categories';
