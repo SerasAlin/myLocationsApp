@@ -7,7 +7,7 @@ export const allLocationsSample: LocationDomain[] = [
     coordinates: ['21.297052', '7.948308'],
     category: {
       id: 1,
-      name: 'First Category',
+      name: 'First CategoryId',
     },
   },
   {
@@ -16,7 +16,7 @@ export const allLocationsSample: LocationDomain[] = [
     coordinates: ['21.297052', '7.948308'],
     category: {
       id: 2,
-      name: 'Second Category',
+      name: 'Second CategoryId',
     },
   },
   {
@@ -25,7 +25,7 @@ export const allLocationsSample: LocationDomain[] = [
     coordinates: ['21.297052', '7.948308'],
     category: {
       id: 3,
-      name: 'Third Category',
+      name: 'Third CategoryId',
     },
   },
   {
@@ -34,7 +34,7 @@ export const allLocationsSample: LocationDomain[] = [
     coordinates: ['21.297052', '7.948308'],
     category: {
       id: 1,
-      name: 'First Category',
+      name: 'First CategoryId',
     },
   },
   {
@@ -43,7 +43,7 @@ export const allLocationsSample: LocationDomain[] = [
     coordinates: ['21.297052', '7.948308'],
     category: {
       id: 2,
-      name: 'Second Category',
+      name: 'Second CategoryId',
     },
   },
 ];

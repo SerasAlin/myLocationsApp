@@ -1,17 +1,17 @@
-import React, { useState } from "react";
+import React, { useState } from 'react';
 
-import Card from "@material-ui/core/Card";
-import CardContent from "@material-ui/core/CardContent";
-import Divider from "@material-ui/core/Divider";
-import { withStyles } from "@material-ui/core/styles";
-import Typography from "@material-ui/core/Typography";
+import Card from '@material-ui/core/Card';
+import CardContent from '@material-ui/core/CardContent';
+import Divider from '@material-ui/core/Divider';
+import { withStyles } from '@material-ui/core/styles';
+import Typography from '@material-ui/core/Typography';
 
-import { CardTypes } from "../../services/api/globals";
-import { CategoryDomain } from "../category/category.domain";
-import { LocationDomain } from "../location/location.domain";
-import CardContextWrapper from "./index";
-import Button from "@mui/material/Button";
-import { Grid } from "@mui/material";
+import { CardTypes } from '../../services/api/globals';
+import { CategoryDomain } from '../category/category.domain';
+import { LocationDomain } from '../location/location.domain';
+import CardContextWrapper from './index';
+import Button from '@mui/material/Button';
+import { useRouter } from 'next/router';
 
 const styles = () => ({
   card: {
@@ -58,11 +58,16 @@ export interface SimpleCardProps {
 
 export const SimpleCard = ({ classes, cardType, data }: SimpleCardProps) => {
   const cardData = useState<LocationDomain | CategoryDomain>(null);
+  const router = useRouter()
+
+  const viewCategory = (categoryId) => {
+    router.push(`/myLocations/categories/${categoryId}`)
+  }
 
   return (
     <CardContextWrapper>
       {cardType === CardTypes.CATEGORY ? (
-        <Card className={classes.card}>
+        <Card onClick={() => viewCategory(data.id)} className={classes.card}>
             <CardContent className={classes.content}>
               <Typography
                 className={"MuiTypography--heading"}

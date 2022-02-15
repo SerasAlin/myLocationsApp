@@ -8,6 +8,7 @@ import { Main } from '../../templates/Main';
 
 const Categories = () => {
   const { data: categories } = useSWR(SWR_CATEGORIES.categories, () => getCategories());
+
   return (
     <Main>
       <Grid container gap='30px' justifyContent='center'>
