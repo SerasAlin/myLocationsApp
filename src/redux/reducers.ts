@@ -1,9 +1,11 @@
 import { combineReducers } from 'redux';
 
-import language from './slices/locations';
+import locations from './slices/locations';
+import categories from './slices/locations';
 
 const reducers = {
-  language,
+  locations,
+  categories
 };
 
 const rootReducer = combineReducers({

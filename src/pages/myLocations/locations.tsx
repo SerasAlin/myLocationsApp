@@ -2,7 +2,6 @@ import { Grid } from '@mui/material';
 import useSWR from 'swr';
 
 import { CardElement } from '../../components/card/card';
-import { CardsContainer } from '../../components/cardContainer/cardsContainer';
 import { CategoryDomain } from '../../components/category/category.domain';
 import { CardTypes, SWR_LOCATIONS } from '../../services/api/globals';
 import { getLocations } from '../../services/api/requests/locations/locations.api';
@@ -17,7 +16,7 @@ const Locations = ({ category }: LocationProps) => {
 
   return (
     <Main>
-      <Grid container gap='5px'>
+      <Grid container gap='30px' justifyContent='center'>
           {category ?
             locations?.map((categoryItem) => {
               return (

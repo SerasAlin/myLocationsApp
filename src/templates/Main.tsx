@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 import { useRouter } from 'next/router';
 
-import ResponsiveAppBar from '../components/appBar/responsiveAppBar';
+import NavigationBar from '../components/appBar/navigationBar';
 import { AppConfig } from '../utils/AppConfig';
 
 type IMainProps = {
@@ -20,7 +20,7 @@ export const Main = (props: IMainProps) => {
 
   return (
     <>
-      <ResponsiveAppBar />
+      <NavigationBar />
       <div className="px-1 w-full antialiased text-gray-700">
         <div className="mx-auto max-w-screen-md">
           <div className="border-b border-gray-300">
