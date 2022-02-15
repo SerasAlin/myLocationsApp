@@ -11,3 +11,4 @@ steps to get the project up and running:
 npm install
 npm run build
 npm run mock-server (wait for few seconds for interactions to be added)
+npm run start
