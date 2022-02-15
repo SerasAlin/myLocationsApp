@@ -57,7 +57,6 @@ export interface SimpleCardProps {
 }
 
 export const SimpleCard = ({ classes, cardType, data }: SimpleCardProps) => {
-  const cardData = useState<LocationDomain | CategoryDomain>(null);
   const router = useRouter()
 
   const viewCategory = (categoryId) => {

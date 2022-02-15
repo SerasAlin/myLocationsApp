@@ -21,7 +21,6 @@ const Categories = () => {
                   data={categoryItem}
                 />
               </Grid>
-
             );
           })}
       </Grid>
